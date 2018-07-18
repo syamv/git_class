@@ -1,1 +1,2 @@
-First Line by develop branch
+First Line by master branch
+Second line by master branch
