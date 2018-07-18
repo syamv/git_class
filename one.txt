@@ -1,2 +1,2 @@
-First Line by master updated from remote repo
+Something changes
 Second line by master branch
